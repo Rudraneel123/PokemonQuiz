@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85149b08.css",
+    "main.js": "/static/js/main.311717e0.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/ash4poke.png": "/static/media/ash4poke.915ce191de8f7adb07a4.png",
+    "static/media/ashpika.jpg": "/static/media/ashpika.c3c4b4bbe77dfd612217.jpg",
+    "static/media/charmendar.png": "/static/media/charmendar.09876a44e5884e555080.png",
+    "static/media/squirtle.png": "/static/media/squirtle.43016935901baa872980.png",
+    "static/media/pikachu.png": "/static/media/pikachu.97f771a2c9c91f027544.png",
+    "static/media/balbasaur.png": "/static/media/balbasaur.708b0e691417fbba23f6.png",
+    "static/media/happyPikachu.png": "/static/media/happyPikachu.fc56b8eeac967681ecc0.png",
+    "static/media/Pokeback.jpg": "/static/media/Pokeback.cec62270a29f11f7d881.jpg",
+    "index.html": "/index.html",
+    "main.85149b08.css.map": "/static/css/main.85149b08.css.map",
+    "main.311717e0.js.map": "/static/js/main.311717e0.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85149b08.css",
+    "static/js/main.311717e0.js"
+  ]
+}
